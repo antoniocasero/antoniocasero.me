@@ -75,7 +75,7 @@ FOURSQUARE_OAUTH_ACCESS_TOKEN_URL = 'https://foursquare.com/oauth2/access_token'
 
 
 #Google Analytics
-GOOGLE_ANALYTICS_TRACKING_ID = ''
+GOOGLE_ANALYTICS_TRACKING_ID = 'UA-42440795-1'
 
 
 #ShareThis
